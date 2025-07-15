@@ -1,4 +1,4 @@
-## Hi there 👋
+## 안녕하세요
 
 [resume](https://ingbunga.github.io/resume/sungwoo_kang_resume_kr.pdf)
 
