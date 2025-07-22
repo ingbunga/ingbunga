@@ -1,6 +1,8 @@
 ## 안녕하세요
 
+<!--
 [resume](https://ingbunga.github.io/resume/sungwoo_kang_resume_kr.pdf)
+-->
 
 <!--
 **ingbunga/ingbunga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
